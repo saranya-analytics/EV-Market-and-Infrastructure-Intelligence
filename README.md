@@ -1,6 +1,6 @@
 Electric Vehicle Sales & Infrastructure Analytics (Power BI)
 
-Project Overview
+Project Overview:
 An interactive 3-page Power BI dashboard analyzing India's EV market growth (4M+ registrations) alongside charging infrastructure density (12K+ PCS) across 34 states.
 
 Key Dashboard Pages
